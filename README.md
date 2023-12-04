@@ -23,11 +23,11 @@
 <br clear="both">
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannemraviteja25&show_icons=true&locale=en&layout=compact" alt="mannemraviteja25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannemraviteja25&show_icons=true&locale=en" alt="mannemraviteja25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannemraviteja25&" alt="mannemraviteja25" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mannemraviteja25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mannemraviteja25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mannemraviteja25&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 </div>
 
