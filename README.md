@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://tenor.com/en-GB/view/lain-typing-gif-22208370"  />
+<img align="right" height="200" src="https://media.tenor.com/mjWYgxi6RS8AAAAC/lain-typing.gif"  />
 
 ###
 
