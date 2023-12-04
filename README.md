@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBPMc1R-PWTRFVO2ckLa7FTcPmfDiDv9A4fntFuu86__Ci9Yj](https://camo.githubusercontent.com/47062079b019114868ece4f3cbd0fd24d402be02be86b84e9652dc218b08b338/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62323434363064323963666232313236616662626137386332623032613064332f74656e6f722e676966)"  />
+<img align="right" height="200" src="https://tenor.com/en-GB/view/lain-typing-gif-22208370"  />
 
 ###
 
@@ -23,9 +23,12 @@
 <br clear="both">
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannemraviteja25&show_icons=true&locale=en&layout=compact" alt="mannemraviteja25" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mannemraviteja25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mannemraviteja25&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannemraviteja25&show_icons=true&locale=en&layout=compact" alt="mannemraviteja25" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannemraviteja25&show_icons=true&locale=en" alt="mannemraviteja25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannemraviteja25&" alt="mannemraviteja25" /></p>
+
 </div>
 
 ###
